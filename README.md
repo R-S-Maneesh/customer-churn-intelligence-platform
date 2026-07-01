@@ -30,15 +30,8 @@ CSV upload
 
 ## Screenshots
 
-Add final submission screenshots here:
+Please refer to screenshots folder in the root directory
 
-- Workspace initialization and upload validation
-- Executive Overview
-- Model Analytics
-- Customer Intelligence
-- High Risk Command Center
-- Scenario Simulator
-- Insights Center
 
 ## Project Structure
 
