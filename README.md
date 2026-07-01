@@ -151,7 +151,7 @@ Generated reports are written to `outputs/`:
 
 ## License
 
-This project is intended for academic and portfolio submission use. Add a formal license before public distribution.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
 
