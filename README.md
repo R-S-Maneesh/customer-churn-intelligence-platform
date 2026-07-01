@@ -30,7 +30,7 @@ CSV upload
 
 ## Screenshots
 
-Please refer to screenshots folder in the root directory
+Please refer to `screenshots` folder in the root directory
 
 
 ## Project Structure
@@ -48,7 +48,7 @@ Please refer to screenshots folder in the root directory
 ├── README.md
 ├── DOCUMENTATION.md
 ├── data/
-├──screenshots/
+├── screenshots/
 ├── models/
 └── outputs/
     └── images/
