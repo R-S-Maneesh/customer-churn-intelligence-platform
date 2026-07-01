@@ -48,6 +48,7 @@ Please refer to screenshots folder in the root directory
 ├── README.md
 ├── DOCUMENTATION.md
 ├── data/
+├──screenshots/
 ├── models/
 └── outputs/
     └── images/
