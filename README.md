@@ -1,4 +1,8 @@
 # Customer Churn Intelligence Platform
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Customer Churn Intelligence Platform is a Streamlit analytics application for telecom churn prediction, portfolio risk monitoring, and retention strategy planning. It accepts a customer dataset, cleans and validates the data, retrains machine learning models, regenerates model analytics, scores customers, and produces executive-ready reports from the active uploaded dataset.
 
