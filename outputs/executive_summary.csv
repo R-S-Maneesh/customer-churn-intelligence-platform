@@ -1,0 +1,10 @@
+Metric,Value
+Total Customers,10000.0
+High Risk Customers,2296.0
+Medium Risk Customers,3766.0
+Low Risk Customers,3938.0
+Average Risk Score,42.82
+Expected Churn Count,4282.43
+High Risk Percentage,22.96
+Medium Risk Percentage,37.66
+Low Risk Percentage,39.38

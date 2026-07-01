@@ -1,0 +1,6 @@
+Scenario,Probability,Risk Category,Risk Reduction %
+Current (Baseline),0.9414958815152197,High Risk,0.0
+Convert to One-Year Contract,0.8540294530318278,High Risk,9.3
+Convert to Two-Year Contract,0.6905193745930494,Medium Risk,26.7
+Apply 15% Discount Plan,0.925671117873735,High Risk,1.7
+Increase Tenure by 12 Months,0.9119430251450517,High Risk,3.1

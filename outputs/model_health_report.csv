@@ -1,0 +1,12 @@
+Metric,Value
+Production Model Name,logistic_model_vB.pkl
+Training Algorithm,Logistic Regression (Balanced Weights)
+Accuracy,0.724
+Precision,0.501758
+Recall,0.771171
+F1 Score,0.607955
+ROC-AUC,0.828258
+Training Date,2026-07-01
+Dataset Size,10000
+Number of Features,13
+Strongest Feature,Contract_Two year

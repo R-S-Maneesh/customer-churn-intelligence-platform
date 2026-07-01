@@ -1,0 +1,11 @@
+==================================================
+          CHURN INSIGHTS & INTERPRETATIONS        
+==================================================
+
+Most Important Feature: Contract_Two year
+Highest Risk Segment: Month-to-month Contracts
+Average Customer Risk: 42.82 / 100
+Recommended Retention Focus: Offer Annual Contract | Provide Loyalty Discount | Assign Retention Team
+
+Key Business Observation:
+Statistical analysis indicates that Month-to-month structures and characteristics linked to Contract_Two year constitute the primary structural accelerators for account attrition. Retention efforts should prioritize proactive outreach centered around: Offer Annual Contract | Provide Loyalty Discount | Assign Retention Team.
