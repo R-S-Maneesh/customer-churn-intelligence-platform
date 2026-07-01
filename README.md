@@ -1,7 +1,5 @@
 # Customer Churn Intelligence Platform
 
-## Overview
-
 Customer Churn Intelligence Platform is a Streamlit analytics application for telecom churn prediction, portfolio risk monitoring, and retention strategy planning. It accepts a customer dataset, cleans and validates the data, retrains machine learning models, regenerates model analytics, scores customers, and produces executive-ready reports from the active uploaded dataset.
 
 ## Features
@@ -18,14 +16,25 @@ Customer Churn Intelligence Platform is a Streamlit analytics application for te
 ## Architecture
 
 ```text
-CSV upload
-  -> validation in app.py
-  -> cleaning in data_cleaning.py
-  -> preprocessing and model training in model_comparison.py
-  -> production model/scaler saved in models/
-  -> customer scoring in business_intelligence.py
-  -> executive reporting in executive_reporting.py
-  -> dashboard rendering in app.py
+CSV Upload
+     │
+     ▼
+Validation
+     │
+     ▼
+Data Cleaning
+     │
+     ▼
+Model Training
+     │
+     ▼
+Business Intelligence
+     │
+     ▼
+Executive Reports
+     │
+     ▼
+Interactive Dashboard
 ```
 
 ## Screenshots
